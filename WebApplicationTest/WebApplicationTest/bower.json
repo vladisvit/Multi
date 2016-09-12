@@ -1,0 +1,9 @@
+{
+    "name": "ASP.NET",
+    "private": true,
+    "dependencies": {
+        "gulp": "~3.9.1",
+        "jquery": "2.1.4",
+        "bootstrap": "3.3.5"
+    }
+}
